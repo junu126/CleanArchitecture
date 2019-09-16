@@ -2,7 +2,7 @@
 
 로버트 C. 마틴\(Robert Martin, a.k.a\)이 공개한 Clean Architecture를 공부하며 작성하는 문서입니다.
 
-![&#xB2E4;&#xC774;&#xC5B4;&#xADF8;&#xB7A8;](../.gitbook/assets/the-clean-architecture.jpg)
+![&#xB2E4;&#xC774;&#xC5B4;&#xADF8;&#xB7A8;](.gitbook/assets/the-clean-architecture.jpg)
 
 > &lt;그림. The Clean Architecture의 다이어 그램&gt;
 
@@ -34,7 +34,7 @@
 
 CleanArchitecture가 기능하기위해 중요한 규칙이 바로 의존규칙이다. 이 규칙에 의해서 소스코드는 안쪽을 향해서만 의존할 수 있다. 안쪽의 원은 바깥쪽의 원에 대해 전혀 알지 못한다. 특히, 바깥쪽의 원에서 선언된 어떠한 이름을 안쪽 원에서 참조해서는 안된다. 이는 함수, 클래, 변수 등 이름이 붙은 소프트웨어의 엔티티 모든 것에 해당한다.
 
-![&#xD074;&#xB9B0;&#xC544;&#xD0A4;&#xD14D;&#xCCD0;\_&#xAD6C;&#xC870;](../.gitbook/assets/clean-architecture2.jpg)
+![&#xD074;&#xB9B0;&#xC544;&#xD0A4;&#xD14D;&#xCCD0;\_&#xAD6C;&#xC870;](.gitbook/assets/clean-architecture2.jpg)
 
 ## 엔티티 \(Entities\)
 
