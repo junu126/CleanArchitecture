@@ -8,6 +8,8 @@ description: Clean Architecture 스터디의 결과물 정리를 위해 만든 �
 
 도서는 다음 [링크](http://www.yes24.com/Product/Goods/77283734)에서 확인하실 수 있습니다.
 
+* 모든 이미지 출처는 도서 Clean Architecture 입니다.
+
 ## 다루는 것
 
 * [로버트 C. 마틴\(Robert Martin, a.k.a\)이 공개한 Clean Architecture를 공부하며 작성하는 문서.](the_clean_architecture.md)
