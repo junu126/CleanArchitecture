@@ -6,5 +6,6 @@
   * [Chap.2 두 가지 가치에 대한 이야기](book/chap2.md)
   * [Chap.3 패러다임 개요](book/chap3.md)
   * [Chap.4 구조적 프로그래밍](book/chap.4.md)
+  * [Chap.5 객체 지향 프로그래밍](book/chap.5.md)
 * [The Clean Architecture](the_clean_architecture.md)
 
