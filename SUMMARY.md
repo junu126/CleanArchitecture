@@ -8,5 +8,6 @@
   * [Chap.4 구조적 프로그래밍](book/chap.4.md)
   * [Chap.5 객체 지향 프로그래밍](book/chap.5.md)
   * [Chap.6 함수형 프로그래밍](book/chap.6.md)
+  * [Chap.7 SRP: 단일 책임 원칙](book/chap.7-srp.md)
 * [The Clean Architecture](the_clean_architecture.md)
 
