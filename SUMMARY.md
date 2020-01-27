@@ -10,5 +10,6 @@
   * [Chap.6 함수형 프로그래밍](book/chap.6.md)
   * [Chap.7 SRP: 단일 책임 원칙](book/chap.7-srp.md)
   * [Chap.8 OCP: 개방-폐쇄 원칙](book/chap.8-ocp.md)
+  * [Chap.9 LSP: 리스코프 치환 원칙](book/chap.9-lsp.md)
 * [The Clean Architecture](the_clean_architecture.md)
 
