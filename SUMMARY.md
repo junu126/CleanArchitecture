@@ -12,5 +12,6 @@
   * [Chap.8 OCP: 개방-폐쇄 원칙](book/chap.8-ocp.md)
   * [Chap.9 LSP: 리스코프 치환 원칙](book/chap.9-lsp.md)
   * [Chap.10 ISP: 인터페이스 분리 원칙](book/chap.10-isp.md)
+  * [Chap.11 DIP: 의존성 역전 원칙](book/chap.11-dip.md)
 * [The Clean Architecture](the_clean_architecture.md)
 
