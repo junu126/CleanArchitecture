@@ -14,5 +14,6 @@
   * [Chap.10 ISP: 인터페이스 분리 원칙](book/chap.10-isp.md)
   * [Chap.11 DIP: 의존성 역전 원칙](book/chap.11-dip.md)
   * [Chap.12 컴포넌트](book/chap.12.md)
+  * [Chap.13 컴포넌트 응집도](book/chap.13.md)
 * [The Clean Architecture](the_clean_architecture.md)
 
