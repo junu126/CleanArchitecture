@@ -17,5 +17,6 @@
   * [Chap.13 컴포넌트 응집도](book/chap.13.md)
   * [Chap.14 컴포넌트 결합](book/chap.14.md)
   * [Chap.15 아키택처란?](book/chap.15.md)
+  * [Chap.16 독립성](book/chap.16.md)
 * [The Clean Architecture](the_clean_architecture.md)
 
