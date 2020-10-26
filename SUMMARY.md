@@ -18,5 +18,6 @@
   * [Chap.14 컴포넌트 결합](book/chap.14.md)
   * [Chap.15 아키택처란?](book/chap.15.md)
   * [Chap.16 독립성](book/chap.16.md)
+  * [Chap.17 경계: 선 긋기?](book/chap.17.md)
 * [The Clean Architecture](the_clean_architecture.md)
 
