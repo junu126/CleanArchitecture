@@ -21,5 +21,6 @@
   * [Chap.17 경계: 선 긋기?](book/chap.17.md)
   * [Chap.18 경계 해부학](book/chap.18.md)
   * [Chap.19 정책과 수준](book/chap.19.md)
+  * [Chap.20 업무 규칙](book/chap.20.md)
 * [The Clean Architecture](the_clean_architecture.md)
 
