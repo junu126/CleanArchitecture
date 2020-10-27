@@ -20,5 +20,6 @@
   * [Chap.16 독립성](book/chap.16.md)
   * [Chap.17 경계: 선 긋기?](book/chap.17.md)
   * [Chap.18 경계 해부학](book/chap.18.md)
+  * [Chap.19 정책과 수준](book/chap.19.md)
 * [The Clean Architecture](the_clean_architecture.md)
 
